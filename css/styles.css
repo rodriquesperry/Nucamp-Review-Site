@@ -35,6 +35,13 @@ a, a:hover {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+}
+
 .row-content {
   padding: 50px 0;
   border-bottom: 1px ridge;
