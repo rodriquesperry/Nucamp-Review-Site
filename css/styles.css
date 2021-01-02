@@ -43,3 +43,11 @@ a, a:hover {
 .site-footer {
   background-image: linear-gradient(#CEC8FF, #fff);
   padding: 20px 0; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: #fff; }
+
+#loginModal .modal-header {
+  background-color: #901cad;
+  color: #fff; }
